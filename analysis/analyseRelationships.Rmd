@@ -1,0 +1,78 @@
+---
+title: "Relationship between learnability, expressivity and systematicity"
+output: pdf_document
+---
+
+```{r echo=F, eval=F}
+setwd("~/Documents/MPI/Thom/LEX_2016/analysis/")
+```
+
+# Introduciton
+
+How does learnability correlate with:
+
+-  Expressivity (number of unique labels)
+-  Systematicity (correlation between lexical and semantic distances)
+-  Mean word length of language
+-  Distinctiveness (average levenshtein distance between word pairs)
+
+# Load libraies
+
+```{r warning=F, message=F}
+library(dplyr)
+library(party)
+```
+
+# Load data
+
+```{r}
+d = read.csv("../data/ExperimentData_with_all_Learnability.csv", stringsAsFactors = F)
+```
+
+```{r}
+
+d.mean = d %>% group_by(phase,condition,loadFile) %>% 
+  summarise(
+  Learnability = mean(Learnability,na.rm=T),
+  Expressivity = mean(Expressivity),
+  Systematicity = mean(Systematicity),
+  mean.word.length = mean(mean.word.length),
+  distinctiveness = mean(distinctiveness)
+)
+d.mean = d.mean[!is.na(d.mean$Learnability),]
+```
+
+# Analysis
+
+Look at the correlations between measures:
+
+```{r}
+cor.short = function(X,Y,la,lb){
+  plot(X,Y,xlab=la,ylab=lb)
+  cx= cor.test(X,Y)
+  return(c(cor=cx$estimate, p=cx$p.value))
+}
+
+cor.short(d.mean$Learnability,d.mean$Expressivity,
+          "Learnability","Expressivity")
+
+cor.short(d.mean$Learnability,d.mean$Systematicity,
+          "Learnability","Systematicity")
+
+cor.short(d.mean$Learnability,d.mean$mean.word.length,
+          "Learnability","Mean word length")
+
+cor.short(d.mean$Learnability,d.mean$distinctiveness,
+           "Learnability","Distinctiveness")
+```
+
+\newpage
+
+# Decision tree
+
+```{r}
+ct = ctree(Learnability~Expressivity+Systematicity + distinctiveness + mean.word.length, data=d.mean)
+plot(ct)
+```
+
+No partitions, suggesting there are no patterns in the data.

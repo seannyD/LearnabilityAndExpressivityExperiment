@@ -1,0 +1,1146 @@
+CH1_G1-5_26_151752	Part1	NA	19-40
+
+CH1_G1-5_26_151752	Part2	NA	19-40
+
+CH1_G1-5_26_152634	Part1	NA	19-40
+
+CH1_G1-5_26_152634	Part2	NA	19-40
+
+CH1_G1-5_26_152839	Part1	NA	19-40
+
+CH1_G1-5_26_152839	Part2	NA	19-40
+
+CH1_G1-5_26_153741	Part2	NA	19-40
+
+CH1_G1-5_26_153741	Part1	NA	19-40
+
+CH1_G1-5_26_163305	Part1	NA	19-40
+
+CH1_G1-5_26_163305	Part2	NA	19-40
+
+CH1_G1-5_26_163651	Part1	NA	19-40
+
+CH1_G1-5_26_163651	Part2	NA	19-40
+
+CH1_G1-5_26_164943	Part2	NA	19-40
+
+CH1_G1-5_26_164943	Part1	NA	19-40
+
+CH1_G1-5_26_165348	Part1	NA	19-40
+
+CH1_G1-5_26_165348	Part2	NA	19-40
+
+CH1_G1-5_26_165644	Part1	NA	19-40
+
+CH1_G1-5_26_165644	Part2	NA	19-40
+
+CH1_G1-5_26_173736	Part1	NA	19-40
+
+CH1_G1-5_26_173736	Part2	NA	19-40
+
+CH1_G1-5_26_173842	Part1	NA	19-40
+
+CH1_G1-5_26_173842	Part2	NA	19-40
+
+CH1_G1-5_26_173859	Part1	NA	19-40
+
+CH1_G1-5_26_173859	Part2	NA	19-40
+
+CH1_G1-5_26_173931	Part1	NA	19-40
+
+CH1_G1-5_26_173930	Part2	NA	19-40
+
+CH1_G1-5_26_173947	Part1	NA	19-40
+
+CH1_G1-5_26_173947	Part2	NA	19-40
+
+CH1_G1-5_26_174628	Part1	NA	19-40
+
+CH1_G1-5_26_174628	Part2	NA	19-40
+
+CH1_G1-5_26_174950	Part1	NA	19-40
+
+CH1_G1-5_26_174950	Part2	NA	19-40
+
+CH1_G1-5_26_175044	Part1	NA	19-40
+
+CH1_G1-5_26_175044	Part2	NA	19-40
+
+CH1_G1-5_26_175121	Part1	NA	19-40
+
+CH1_G1-5_26_175121	Part2	NA	19-40
+
+CH1_G1-5_26_175445	Part1	NA	19-40
+
+CH1_G1-5_26_175445	Part2	NA	19-40
+
+CH1_G1-5_26_180008	Part1	NA	19-40
+
+CH1_G1-5_26_180008	Part2	NA	19-40
+
+CH1_G1-5_26_180110	Part1	NA	19-40
+
+CH1_G1-5_26_180110	Part2	NA	19-40
+
+CH1_G1-5_26_180218	Part1	NA	19-40
+
+CH1_G1-5_26_180218	Part2	NA	19-40
+
+CH1_G1-5_26_180327	Part1	NA	19-40
+
+CH1_G1-5_26_180327	Part2	NA	19-40
+
+CH1_G1-5_26_180802	Part1	NA	19-40
+
+CH1_G1-5_26_180802	Part2	NA	19-40
+
+CH1_G1-5_26_181143	Part1	NA	19-40
+
+CH1_G1-5_26_181143	Part2	NA	19-40
+
+CH1_G1-5_26_181242	Part1	NA	19-40
+
+CH1_G1-5_26_181242	Part2	NA	19-40
+
+CH1_G1-5_26_181400	Part1	NA	19-40
+
+CH1_G1-5_26_181738	Part1	NA	19-40
+
+CH1_G1-5_26_181738	Part2	NA	19-40
+
+CH1_G0-5_28_100225	Part1	NA	19-40
+
+CH1_G1-5_28_102434	Part1	NA	19-40
+
+CH1_G1-5_28_102612	Part1	NA	19-40
+
+CH1_G1-5_28_103754	Part1	NA	19-40
+
+CH1_G1-5_28_103754	Part2	NA	19-40
+
+CH1_G1-6_4_101058	Part1	NA	19-40
+
+CH1_G1-6_4_103004	Part1	NA	19-40
+
+CH1_G1-6_4_103510	Part1	NA	19-40
+
+CH1_G1-6_4_103510	Part2	NA	19-40
+
+CH1_G1-6_4_103551	Part2	NA	19-40
+
+CH1_G1-6_4_103551	Part1	NA	19-40
+
+CH1_G1-6_4_103842	Part1	NA	19-40
+
+CH1_G1-6_4_103842	Part2	NA	19-40
+
+CH1_G1-6_4_110408	Part1	NA	19-40
+
+CH1_G1-6_4_110408	Part2	NA	19-40
+
+CH1_G1-6_4_111340	Part1	NA	19-40
+
+CH1_G1-6_4_111340	Part2	NA	19-40
+
+CH1_G1-6_4_111617	Part2	NA	19-40
+
+CH1_G1-6_4_111617	Part1	NA	19-40
+
+CH1_G0-6_5_095027	Part2	NA	19-40
+
+CH1_G0-6_5_095113	Part1	NA	19-40
+
+CH1_G0-6_5_095125	Part1	NA	19-40
+
+CH1_G0-6_5_095143	Part1	NA	19-40
+
+CH1_G2-6_5_095156	Part1	NA	19-40
+
+CH1_G0-6_5_095206	Part1	NA	19-40
+
+CH1_G1-6_9_115452	Part1	NA	19-40
+
+CH1_G1-6_9_115452	Part2	NA	19-40
+
+CH1_G1-6_9_115640	Part1	NA	19-40
+
+CH1_G1-6_9_115640	Part2	NA	19-40
+
+CH1_G1-6_10_101124	Part1	NA	19-40
+
+CH1_G1-6_10_101124	Part2	NA	19-40
+
+CH1_G0-6_10_123105	Part1	NA	19-40
+
+CH1_G0-6_10_124947	Part1	NA	19-40
+
+CH1_G0-6_10_124947	Part2	NA	19-40
+
+CH1_G0-6_10_125132	Part1	NA	19-40
+
+CH1_G0-6_10_130945	Part1	NA	19-40
+
+CH1_G1-6_12_092855	Part1	NA	19-40
+
+CH1_G1-6_12_092855	Part2	NA	19-40
+
+CH1_G1-6_12_112316	Part2	NA	19-40
+
+CH1_G1-6_12_112316	Part1	NA	19-40
+
+CH1_G1-6_12_222008	Part1	NA	19-40
+
+CH1_G1-6_12_222008	Part2	NA	19-40
+
+CH1_G1-6_15_162552	Part1	NA	19-40
+
+CH1_G1-6_15_162752	Part1	NA	19-40
+
+CH1_G1-6_15_163803	Part1	NA	19-40
+
+CH1_G1-6_15_163803	Part2	NA	19-40
+
+CH1_G1-6_15_165451	Part2	NA	19-40
+
+CH1_G1-6_15_165451	Part1	NA	19-40
+
+	undefined	NA	19-40
+
+CH1_G1-6_16_193055	Part1	NA	19-40
+
+CH1_GNaN-6_17_110158	Part1	NA	19-40
+
+ExperXX_START-test.lang_CH1-6_17_111558	Part2	NA	19-40
+
+ExperXX_START-test.lang_CH1-6_17_111558	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_114236	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_115453	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_115453	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_152425	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_152425	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_153057	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_153057	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_153242	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_153242	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_153300	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_153300	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_153358	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_153358	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_153721	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_153721	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_154302	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_154302	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_154440	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_154440	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_154907	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_154910	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_154910	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_154944	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_154944	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_155407	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_155407	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_161452	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_161452	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_162826	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_162826	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_163027	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_163027	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_163611	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_163611	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_163741	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_163741	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_164354	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_164354	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_165354	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_165354	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_165809	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_165809	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_165932	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_165932	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_170657	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_170657	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_170720	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_170721	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_170737	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_170737	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_170910	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_170910	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_214546	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_214546	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_214936	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_214934	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_214946	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_214946	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215147	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215154	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215154	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215310	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215310	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215444	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215444	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215522	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215522	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215622	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215622	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215715	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215715	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215845	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_215845	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_17_220834	Part1	NA	19-40
+
+Exper_START-test.lang_CH2-6_17_221602	Part1	NA	19-40
+
+Exper_START-test.lang_CH2-6_17_221602	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_18_115833	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_18_115833	Part2	NA	19-40
+
+Exper_START-E11-S400.lang_CH1-6_18_144553	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-11-.lang_CH6-6_18_163044	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-11-.lang_CH6-6_18_163121	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-11-.lang_CH6-6_18_163121	Part1	NA	19-40
+
+Exper_START-E11-S400.lang_CH1-6_18_191818	Part1	NA	19-40
+
+Exper_STARTa-e-14-s-14-.lang_CH1-6_18_193609	Part2	NA	19-40
+
+Exper_STARTa-e-14-s-14-.lang_CH1-6_18_193609	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_19_111415	Part2	NA	19-40
+
+Exper_START-test.lang_CH1-6_19_111415	Part1	NA	19-40
+
+PaCa_STARTa-e-11-s-8-.lang_CH1-6_19_115006	Part2	NA	19-40
+
+PaCa_STARTa-e-11-s-8-.lang_CH1-6_19_115006	Part1	NA	19-40
+
+PaCb_STARTa-e-11-s-8-.lang_CH1-6_19_125457	Part1	NA	19-40
+
+PaCb_STARTa-e-11-s-8-.lang_CH1-6_19_125457	Part2	NA	19-40
+
+Test_STARTa-e-11-s-8-.lang_CH1-6_19_140328	Part1	NA	19-40
+
+PaCa_STARTa-e-11-s-8-.lang_CH1-6_19_170111	Part1	NA	19-40
+
+Exper_START-test.lang_CH2-6_19_171421	Part1	NA	19-40
+
+Exper_START-test.lang_CH2-6_19_171520	Part2	NA	19-40
+
+Exper_START-test.lang_CH2-6_19_171520	Part1	NA	19-40
+
+Exper_START-test.lang_CH1-6_19_174720	Part1	NA	19-40
+
+Eonly_STARTa-e-8-s-5-.lang_CH1-6_20_094334	Part2	NA	19-40
+
+Eonly_STARTa-e-8-s-5-.lang_CH1-6_20_094334	Part1	NA	19-40
+
+Eonly_STARTa-e-8-s-5-.lang_CH1-6_20_095001	Part1	NA	19-40
+
+Eonly_STARTa-e-8-s-5-.lang_CH1-6_20_095001	Part2	NA	19-40
+
+Eonly_STARTa-e-8-s-5-.lang_CH1-6_20_095542	Part1	NA	19-40
+
+Eonly_STARTa-e-8-s-5-.lang_CH1-6_20_095542	Part2	NA	19-40
+
+Eonly_STARTa-e-11-s-8-.lang_CH1-6_20_100642	Part1	NA	19-40
+
+Eonly_STARTa-e-11-s-8-.lang_CH1-6_20_100642	Part2	NA	19-40
+
+LandE_STARTa-e-11-s-8-.lang_CH1-6_20_113326	Part1	NA	19-40
+
+LandE_STARTa-e-11-s-8-.lang_CH1-6_20_113326	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-6_20_154625	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-6_20_154625	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-6_20_155218	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-6_20_155218	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-6_20_160145	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-6_20_160145	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-6_20_160600	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-6_20_160600	Part1	NA	19-40
+
+Test_STARTa-e-11-s-8-.lang_CH1-6_21_195827	Part1	NA	19-40
+
+Test_STARTa-e-11-s-8-.lang_CH1-6_21_200654	Part1	NA	19-40
+
+Test_STARTa-e-11-s-8-.lang_CH1-6_21_201756	Part1	NA	19-40
+
+Test_STARTa-e-11-s-8-.lang_CH1-6_22_142308	Part1	NA	19-40
+
+Test_STARTa-e-11-s-8-.lang_CH1-6_22_142308	Part2	NA	19-40
+
+Test_STARTa-e-11-s-8-.lang_CH1-6_22_153442	Part1	NA	19-40
+
+Test_STARTa-e-11-s-8-.lang_CH1-6_22_153442	Part2	NA	19-40
+
+Test_STARTa-e-11-s-8-.lang_CH1-6_22_154310	Part1	NA	19-40
+
+Test_STARTa-e-11-s-8-.lang_CH1-6_22_154310	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_072630	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_072630	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_074122	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_074122	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_074244	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_074244	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_074505	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_074505	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_081026	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_081026	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_081727	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_081727	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_081924	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_081924	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_082402	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_082402	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_082653	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_082653	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_083005	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-6_23_083005	Part1	NA	19-40
+
+CaLa_STARTa-e-5-s-2-.lang_CH1-7_6_102342	Part1	NA	19-40
+
+CbLa_STARTa-e-5-s-2-.lang_CH1-7_7_101204	Part1	NA	19-40
+
+CbLa_STARTa-e-5-s-2-.lang_CH1-7_7_101204	Part2	NA	19-40
+
+CcLa_STARTa-e-5-s-2-.lang_CH1-7_7_112616	Part1	NA	19-40
+
+CcLa_STARTa-e-5-s-2-.lang_CH1-7_7_112616	Part2	NA	19-40
+
+CbLb_STARTa-e-8-s-2-.lang_CH1-7_7_131648	Part1	NA	19-40
+
+CbLb_STARTa-e-8-s-2-.lang_CH1-7_7_131648	Part2	NA	19-40
+
+CaLb_STARTa-e-8-s-2-.lang_CH1-7_7_134554	Part1	NA	19-40
+
+CaLb_STARTa-e-8-s-2-.lang_CH2-7_7_134717	Part1	NA	19-40
+
+CbLb_STARTa-e-8-s-2-.lang_CH1-7_7_135004	Part1	NA	19-40
+
+CbLb_STARTa-e-8-s-2-.lang_CH1-7_7_135004	Part2	NA	19-40
+
+CcLb_STARTa-e-8-s-2-.lang_CH1-7_7_145912	Part1	NA	19-40
+
+CcLb_STARTa-e-8-s-2-.lang_CH1-7_7_145912	Part2	NA	19-40
+
+CbLc_STARTa-e-11-s-2-.lang_CH1-7_7_160822	Part1	NA	19-40
+
+CbLc_STARTa-e-11-s-2-.lang_CH1-7_7_160822	Part2	NA	19-40
+
+CcLc_STARTa-e-11-s-2-.lang_CH1-7_8_090147	Part1	NA	19-40
+
+CcLc_STARTa-e-11-s-2-.lang_CH1-7_8_090147	Part2	NA	19-40
+
+CbLd_STARTa-e-14-s-2-.lang_CH1-7_8_103546	Part1	NA	19-40
+
+CbLd_STARTa-e-14-s-2-.lang_CH1-7_8_103546	Part2	NA	19-40
+
+CbLd_STARTa-e-14-s-2-.lang_CH1-7_8_104700	Part1	NA	19-40
+
+CbLd_STARTa-e-14-s-2-.lang_CH1-7_8_104700	Part2	NA	19-40
+
+CcLd_STARTa-e-14-s-2-.lang_CH1-7_8_114528	Part1	NA	19-40
+
+CcLd_STARTa-e-14-s-2-.lang_CH1-7_8_114528	Part2	NA	19-40
+
+CbLe_STARTa-e-8-s-5-.lang_CH1-7_8_132312	Part1	NA	19-40
+
+CbLe_STARTa-e-8-s-5-.lang_CH1-7_8_132312	Part2	NA	19-40
+
+CaLc_STARTa-e-11-s-2-.lang_CH1-7_8_145036	Part1	NA	19-40
+
+CcLe_STARTa-e-8-s-5-.lang_CH1-7_8_155247	Part1	NA	19-40
+
+CcLe_STARTa-e-8-s-5-.lang_CH1-7_8_155247	Part2	NA	19-40
+
+CaLd_STARTa-e-14-s-2-.lang_CH2-7_8_155843	Part1	NA	19-40
+
+CbLf_STARTa-e-11-s-5-.lang_CH1-7_9_091019	Part1	NA	19-40
+
+CbLf_STARTa-e-11-s-5-.lang_CH1-7_9_091019	Part2	NA	19-40
+
+CcLf_STARTa-e-11-s-5-.lang_CH1-7_9_101733	Part1	NA	19-40
+
+CcLf_STARTa-e-11-s-5-.lang_CH1-7_9_101733	Part2	NA	19-40
+
+CaLe_STARTa-e-8-s-5-.lang_CH1-7_9_120023	Part1	NA	19-40
+
+CcLg_STARTa-e-14-s-5-.lang_CH1-7_9_132344	Part1	NA	19-40
+
+CcLg_STARTa-e-14-s-5-.lang_CH1-7_9_132344	Part2	NA	19-40
+
+CbLg_STARTa-e-14-s-5-.lang_CH1-7_9_145321	Part1	NA	19-40
+
+CbLg_STARTa-e-14-s-5-.lang_CH1-7_9_145321	Part2	NA	19-40
+
+RE_STARTa-e-14-s-5-.lang_CH1-7_9_152948	Part1	NA	19-40
+
+RE_STARTa-e-14-s-5-.lang_CH1-7_9_152948	Part2	NA	19-40
+
+CcLh _STARTa-e-11-s-8-.lang_CH1-7_9_161629	Part1	NA	19-40
+
+CcLh _STARTa-e-11-s-8-.lang_CH1-7_9_161629	Part2	NA	19-40
+
+CaLf_STARTa-e-11-s-5-.lang_CH2-7_9_160924	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-7_9_192504	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH6-7_9_192504	Part1	NA	19-40
+
+CbLh_STARTa-e-11-s-8-.lang_CH1-7_10_093141	Part1	NA	19-40
+
+CbLh_STARTa-e-11-s-8-.lang_CH1-7_10_093141	Part2	NA	19-40
+
+CaLg_STARTa-e-14-s-5-.lang_CH1-7_10_104545	Part1	NA	19-40
+
+CcLi_STARTa-e-14-s-8-.lang_CH1-7_10_112932	Part1	NA	19-40
+
+CcLi_STARTa-e-14-s-8-.lang_CH1-7_10_112932	Part2	NA	19-40
+
+CbLi_STARTa-e-11-s-8-.lang_CH1-7_11_155503	Part1	NA	19-40
+
+CbLi_STARTa-e-11-s-8-.lang_CH1-7_11_155503	Part2	NA	19-40
+
+CcLi_STARTa-e-14-s-8-.lang_CH1-7_11_162046	Part1	NA	19-40
+
+CcLi_STARTa-e-14-s-8-.lang_CH1-7_11_162046	Part2	NA	19-40
+
+CbLj_STARTa-e-14-s-11-.lang_CH1-7_14_090656	Part1	NA	19-40
+
+CbLj_STARTa-e-14-s-11-.lang_CH1-7_14_090656	Part2	NA	19-40
+
+CcLj_STARTa-e-14-s-11-.lang_CH1-7_14_114055	Part1	NA	19-40
+
+CcLj_STARTa-e-14-s-11-.lang_CH1-7_14_114055	Part2	NA	19-40
+
+RECbLa_STARTa-e-5-s-2-.lang_CH1-7_14_132313	Part1	NA	19-40
+
+RECbLa_STARTa-e-5-s-2-.lang_CH1-7_14_132313	Part2	NA	19-40
+
+RECbLb_STARTa-e-8-s-2-.lang_CH1-7_14_143340	Part1	NA	19-40
+
+RECbLb_STARTa-e-8-s-2-.lang_CH1-7_14_143340	Part2	NA	19-40
+
+RECcLe_STARTa-e-8-s-5-.lang_CH1-7_14_154112	Part1	NA	19-40
+
+RECcLe_STARTa-e-8-s-5-.lang_CH1-7_14_154112	Part2	NA	19-40
+
+CaLj_STARTa-e-14-s-11-.lang_CH3-7_15_103036	Part1	NA	19-40
+
+CaLi_STARTa-e-14-s-8-.lang_CH2-7_15_102934	Part1	NA	19-40
+
+CaLh_STARTa-e-11-s-8-.lang_CH1-7_15_114326	Part1	NA	19-40
+
+Exper_STARTb-e-11-s-2-.lang_CH6-7_15_173436	Part2	NA	19-40
+
+Exper_STARTb-e-11-s-2-.lang_CH6-7_15_173436	Part1	NA	19-40
+
+ExperXXXXX_STARTa-e-11-s-2-.lang_CH1-8_12_102952	Part1	NA	19-40
+
+ExperXXXXX_STARTa-e-11-s-2-.lang_CH1-8_12_102952	Part2	NA	19-40
+
+ExperSSSSSS_STARTa-e-11-s-2-.lang_CH1-8_12_103159	Part2	NA	19-40
+
+ExperSSSSSS_STARTa-e-11-s-2-.lang_CH1-8_12_103159	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_110522	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_110522	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_112627	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_112722	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_112813	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_112813	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_113159	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_113159	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_113420	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_114533	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_115017	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_115017	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_121251	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_121803	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_121803	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_122246	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_122246	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_132136	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_132136	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_132526	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_132526	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_132800	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_132758	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_132806	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_132806	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_134117	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-11_27_134117	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_13_204501	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_13_204501	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_125925	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_125925	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_132336	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_132336	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_132548	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_132548	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_133003	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_133003	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_133503	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_133529	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_133529	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_133633	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_133633	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_133837	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_133837	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_134153	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_134208	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_134208	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_134326	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_134326	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_134826	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_134826	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_135326	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_19_135326	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-2_15_131954	Part1	NA	19-40
+
+Thom Learnability test_STARTa-e-11-s-5-.lang_CH1-3_10_121131	Part1	NA	19-40
+
+Thom Learnability test_STARTa-e-11-s-5-.lang_CH1-3_10_121215	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-5-.lang_CH1-3_10_214948	Part1	NA	19-40
+
+Exper s as sa as_STARTa-e-11-s-5-.lang_CH1-3_10_215024	Part1	NA	19-40
+
+Exper s as sa as_STARTa-e-11-s-5-.lang_CH1-3_10_215351	Part1	NA	19-40
+
+ThomLearnabilitytest_STARTa-e-11-s-5-.lang_CH1-3_10_140822	Part1	NA	19-40
+
+ThomLearnabilitytest_STARTa-e-11-s-5-.lang_CH1-3_12_181213	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_2_001513	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_145300	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_145321	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_145321	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_145446	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_145446	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_151144	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_151144	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_151641	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_151704	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_151704	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_154105	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_154105	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163053	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163053	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163228	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163228	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163328	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163328	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163358	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163358	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163440	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163440	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163857	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_20_163857	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_21_131211	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_21_131211	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_21_160321	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_21_160320	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_21_160359	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_21_160359	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_092208	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_092208	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_092234	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_092234	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_093644	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_093644	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_095032	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_095032	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_095223	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_095232	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_095232	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_095931	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-4_22_095931	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_151131	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_151131	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_155800	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_155800	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_160105	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_160105	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_160326	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_160326	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_161410	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_161410	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_161429	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_161429	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_161539	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_161539	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_161625	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_161625	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_162051	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_162051	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_162154	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_162157	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_162213	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_162321	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_162837	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_15_162923	Part1	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_25_134709	Part2	NA	19-40
+
+Exper_STARTa-e-11-s-2-.lang_CH1-1_25_134709	Part1	NA	19-40
+
+PH1_2_21_162035_CH1_parent-Start_1.lang	Part1	NA	19-40
+
+PH1_2_25_104404_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_2_25_104428_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_2_25_104636_CH2_parent-Start_2	Part1	NA	19-40
+
+PH1_2_25_104651_CH2_parent-Start_2	Part1	NA	19-40
+
+PH1_2_25_105135_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_2_25_105348_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_2_25_105312_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_2_25_110110_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_2_25_110256_CH2_parent-Start_2	Part1	NA	19-40
+
+PH1_2_25_110232_CH3_parent-Start_3	Part1	NA	19-40
+
+PH1_3_3_101012_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_3_3_101012_CH2_parent-Start_2	Part1	NA	19-40
+
+PH1_3_3_101040_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_3_3_101113_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_3_3_101139_CH2_parent-Start_2	Part1	NA	19-40
+
+PH1_3_3_110048_CH3_parent-Start_3	Part1	NA	19-40
+
+PH1_3_8_105005_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_3_8_105030_CH2_parent-Start_4	Part1	NA	19-40
+
+PH1_3_10_095345_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_3_10_101131_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_3_10_102817_CH2_parent-Start_2	Part1	NA	19-40
+
+PH1_3_10_102825_CH4_parent-Start_4	Part1	NA	19-40
+
+PH1_3_10_102825_CH1_parent-Start_1	Part1	NA	19-40
+
+PH1_3_10_102849_CH3_parent-Start_3	Part1	NA	19-40
+
+PH1_3_15_110712_CH2_parent-Start_2	Part1	NA	19-40
+
+PH1_3_15_110751_CH3_parent-Start_2	Part1	NA	19-40
+
+PH1_3_17_104852_CH3_parent-Start_3	Part1	NA	19-40
+
+PH1_3_24_094856_CH4_parent-Start_4	Part1	NA	19-40
+
+PH1_3_24_114805_CH1_parent-Start_1	Part1	NA	19-40
+
+PH2_4_19_094444_CH1_parent-Start_4	Part2	NA	19-40
+
+PH2_4_19_094444_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_4_19_095615_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_4_19_095615_CH1_parent-Start_4	Part2	NA	19-40
+
+PH2_5_6_104745_CH8_parent-Start_4	Part2	NA	19-40
+
+PH2_5_6_104745_CH8_parent-Start_4	Part1	NA	19-40
+
+PH2_5_6_140007_CH8_parent-Start_4	Part2	NA	19-40
+
+PH2_5_6_140007_CH8_parent-Start_4	Part1	NA	19-40
+
+PH2_5_6_140223_CH8_parent-Start_4	Part1	NA	19-40
+
+PH2_5_6_140227_CH8_parent-Start_4	Part2	NA	19-40
+
+PH2_5_6_140227_CH8_parent-Start_4	Part1	NA	19-40
+
+	Part1	NA	19-40
+
+PH1_5_19_105157_CH1_parent-Start_1	Part1	NA	19-40
+
+PH3_5_19_113750_CH1_parent-PH1_3_8_105005_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_5_19_113844_CH1_parent-PH1_3_8_105005_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_5_19_111631_CH2_parent-Start_4	Part1	NA	19-40
+
+PH1_5_19_111631_CH2_parent-Start_4	Part2	NA	19-40
+
+PH2_5_26_112353_CH1_parent-PH1_3_8_105030_CH2_parent-Start_4	Part1	NA	19-40
+
+PH2_6_2_113539_CH1_parent-PH1_3_10_102825_CH4_parent-Start_4	Part1	NA	19-40
+
+PH2_6_7_113002_CH3_parent-PH1_3_24_094856_CH4_parent-Start_4	Part1	NA	19-40
+
+PH2_6_9_095038_CH1_parent-Start_4	Part1	NA	19-40
+
+PH2_6_9_095038_CH1_parent-Start_4	Part2	NA	19-40
+
+PH2_6_14_100004_CH1_parent-PH3_5_19_113844_CH1_parent-PH1_3_8_105005_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_6_14_111214_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_6_14_111214_CH1_parent-Start_4	Part2	NA	19-40
+
+PH1_6_14_114242_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_6_14_114242_CH1_parent-Start_4	Part2	NA	19-40
+
+PH1_6_14_114615_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_6_14_114615_CH1_parent-Start_4	Part2	NA	19-40
+
+PH2_6_16_111548_CH1_parent-Start_4	Part1	NA	19-40
+
+PH2_6_16_111548_CH1_parent-Start_4	Part2	NA	19-40
+
+PH2_6_16_113912_CH1_parent-Start_4	Part1	NA	19-40
+
+PH2_6_16_114047_CH1_parent-Start_4	Part1	NA	19-40
+
+PH2_6_16_114047_CH1_parent-Start_4	Part2	NA	19-40
+
+PH2_6_21_105239_CH1_parent-PH1_3_8_105030_CH2_parent-Start_4	Part1	NA	19-40
+
+PH2_6_21_110601_CH2_parent-PH1_3_8_105030_CH2_parent-Start_4	Part1	NA	19-40
+
+PH2_6_23_094112_CH1_parent-Start_4	Part2	NA	19-40
+
+PH2_6_23_094112_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_6_28_095126_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_6_28_095126_CH1_parent-Start_4	Part2	NA	19-40
+
+PH2_6_28_114809_CH1_parent-PH1_3_8_105030_CH2_parent-Start_4	Part1	NA	19-40
+
+PH2_6_28_122845_CH1_parent-PH1_3_10_102825_CH4_parent-Start_4	Part1	NA	19-40
+
+PH2_8_9_105752_CH1_parent-PH1_3_24_094856_CH4_parent-Start_4	Part1	NA	19-40
+
+PH1_8_9_120335_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_8_9_120335_CH1_parent-Start_4	Part2	NA	19-40
+
+PH2_8_9_130358_CH1_parent-Start_4	Part1	NA	19-40
+
+PH2_8_9_130358_CH1_parent-Start_4	Part2	NA	19-40
+
+PH3_8_11_105735_CH1_parent-PH1_5_19_111631_CH2_parent-Start_4	Part1	NA	19-40
+
+PH3_8_11_111725_CH2_parent-PH2_6_16_114047_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_11_120042_CH1_parent-PH1_6_28_095126_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_11_140215_CH2_parent-PH1_6_14_114615_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_11_140112_CH1_parent-PH2_6_23_094112_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_11_150806_CH1_parent-PH1_8_9_120335_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_11_150709_CH2_parent-PH2_6_9_095038_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_16_095835_CH1_parent-PH2_8_9_130358_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_16_105943_CH1_parent-PH2_6_9_095038_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_16_125434_CH2_parent-PH2_6_23_094112_CH1_parent-Start_4	Part1	NA	19-40
+
+PH1_8_16_125333_CH1_parent-PH2_6_16_114047_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_18_095906_CH1_parent-PH2_8_9_130358_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_18_101955_CH1_parent-PH1_5_19_111631_CH2_parent-Start_4	Part1	NA	19-40
+
+PH3_8_18_112916_CH1_parent-PH1_6_14_114615_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_18_123040_CH1_parent-PH1_6_28_095126_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_23_095901_CH1_parent-PH1_8_9_120335_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_23_103135_CH1_parent-PH1_3_8_105005_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_23_130125_CH1_parent-PH1_3_8_105030_CH2_parent-Start_4	Part1	NA	19-40
+
+PH1_8_23_135833_CH1_parent-PH1_3_10_102825_CH4_parent-Start_4	Part1	NA	19-40
+
+PH3_8_26_115915_CH2_parent-PH1_3_8_105030_CH2_parent-Start_4	Part1	NA	19-40
+
+PH3_8_26_115808_CH1_parent-PH1_3_8_105005_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_26_130220_CH1_parent-PH1_3_10_102825_CH4_parent-Start_4	Part1	NA	19-40
+
+PH3_8_26_135917_CH1_parent-PH1_3_24_094856_CH4_parent-Start_4	Part1	NA	19-40
+
+PH3_8_26_143312_CH1_parent-PH1_3_24_094856_CH4_parent-Start_4	Part1	NA	19-40
+
+PH3_8_26_155900_CH1_parent-PH1_5_19_111631_CH2_parent-Start_4	Part1	NA	19-40
+
+PH3_8_26_161905_CH1_parent-PH1_6_14_114615_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_29_095642_CH1_parent-PH1_6_28_095126_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_29_102914_CH1_parent-PH1_8_9_120335_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_29_110220_CH2_parent-PH2_6_9_095038_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_29_110114_CH1_parent-PH1_5_19_111631_CH2_parent-Start_4	Part1	NA	19-40
+
+PH3_8_29_113136_CH1_parent-PH1_6_14_114615_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_29_115833_CH1_parent-PH1_6_28_095126_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_29_132920_CH1_parent-PH1_8_9_120335_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_29_142805_CH1_parent-PH2_6_16_114047_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_31_093538_CH1_parent-PH2_6_23_094112_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_31_095539_CH1_parent-PH2_6_9_095038_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_31_123521_CH1_parent-PH2_8_9_130358_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_31_125954_CH1_parent-PH2_6_23_094112_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_31_133157_CH1_parent-PH2_6_16_114047_CH1_parent-Start_4	Part1	NA	19-40
+
+PH3_8_31_150325_CH1_parent-PH2_8_9_130358_CH1_parent-Start_4	Part1	NA	19-40
+

@@ -1,0 +1,128 @@
+"loadFile","condition","phase","seed","parent","Expressivity","Systematicity","Learnability","mean.word.length","distinctiveness"
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_1.lang","Seed","PH1","Start_1",NA,0.6875,0.347103670558941,0.328125,5.125,0.676041666666667
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_1.lang","Seed","PH1","Start_1",NA,0.6875,0.347103670558941,0.556770833333333,5.125,0.676041666666667
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_1.lang","Seed","PH1","Start_1",NA,0.6875,0.347103670558941,0.4921875,5.125,0.676041666666667
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_1.lang","Seed","PH1","Start_1",NA,0.6875,0.347103670558941,0.3671875,5.125,0.676041666666667
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_1.lang","Seed","PH1","Start_1",NA,0.6875,0.347103670558941,0.84375,5.125,0.676041666666667
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_2_25_110110_CH1_parent-Start_1","Learnability","PH2","Start_1","Start_1.lang",0.6875,0.17857900318323,NA,4.875,0.677083333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_10_101131_CH1_parent-Start_1","Learnability","PH2","Start_1","Start_1.lang",0.9375,0.06345453208127,NA,4.8125,0.748611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_10_102825_CH1_parent-Start_1","Learnability","PH2","Start_1","Start_1.lang",0.6875,0.0316900532092149,NA,5.625,0.631597222222222
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_24_114805_CH1_parent-Start_1","Learnability","PH2","Start_1","Start_1.lang",0.5,0.0958904139331311,NA,5,0.570833333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_3_101113_CH1_parent-Start_1","Learnability","PH2","Start_1","Start_1.lang",0.8125,0.252877916818451,NA,5,0.659722222222222
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_3.lang","Seed","PH1","Start_3",NA,0.6875,0.196309068445396,0.5703125,6.25,0.60625
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_3.lang","Seed","PH1","Start_3",NA,0.6875,0.196309068445396,0.62202380952381,6.25,0.60625
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_3.lang","Seed","PH1","Start_3",NA,0.6875,0.196309068445396,0.418469551282051,6.25,0.60625
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_3.lang","Seed","PH1","Start_3",NA,0.6875,0.196309068445396,0.700520833333333,6.25,0.60625
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_2_25_110232_CH3_parent-Start_3","Learnability","PH2","Start_3","Start_3.lang",0.8125,0.152955499272677,NA,6.25,0.553472222222222
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_10_102849_CH3_parent-Start_3","Learnability","PH2","Start_3","Start_3.lang",0.5625,0.179461814168167,NA,6.6875,0.679662698412698
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_17_104852_CH3_parent-Start_3","Learnability","PH2","Start_3","Start_3.lang",0.6875,-0.00715762428339909,NA,7.75,0.744912240537241
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_3_110048_CH3_parent-Start_3","Learnability","PH2","Start_3","Start_3.lang",0.75,0.438884106799303,NA,6.875,0.610416666666667
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_2.lang","Seed","PH1","Start_2",NA,0.6875,0.0262145023002916,0.197916666666667,4.375,0.798611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_2.lang","Seed","PH1","Start_2",NA,0.6875,0.0262145023002916,1,4.375,0.798611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_2.lang","Seed","PH1","Start_2",NA,0.6875,0.0262145023002916,1,4.375,0.798611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_2.lang","Seed","PH1","Start_2",NA,0.6875,0.0262145023002916,0.984375,4.375,0.798611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_2.lang","Seed","PH1","Start_2",NA,0.6875,0.0262145023002916,1,4.375,0.798611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_2_25_110256_CH2_parent-Start_2","Learnability","PH2","Start_2","Start_2.lang",0.375,0.107189301737445,NA,5.0625,0.698888888888889
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_10_102817_CH2_parent-Start_2","Learnability","PH2","Start_2","Start_2.lang",0.6875,0.0262145023002916,NA,4.375,0.798611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_15_110712_CH2_parent-Start_2","Learnability","PH2","Start_2","Start_2.lang",0.6875,0.0262145023002916,NA,4.375,0.798611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_15_110751_CH3_parent-Start_2","Learnability","PH2","Start_2","Start_2.lang",0.6875,-0.00159336218922808,NA,4.375,0.796527777777778
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_3_101139_CH2_parent-Start_2","Learnability","PH2","Start_2","Start_2.lang",0.6875,0.0262145023002916,NA,4.375,0.798611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_4.lang","Seed","PH1","Start_4",NA,0.6875,0.299110380693603,0.5625,5.5,0.583333333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_4.lang","Seed","PH1","Start_4",NA,0.6875,0.299110380693603,0.447916666666667,5.5,0.583333333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_4.lang","Seed","PH1","Start_4",NA,0.6875,0.299110380693603,0.479166666666667,5.5,0.583333333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/Start_4.lang","Seed","PH1","Start_4",NA,0.6875,0.299110380693603,0.333333333333333,5.5,0.583333333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_10_102825_CH4_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.6875,0.0670776537941777,0.833333333333333,6,0.570833333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_10_102825_CH4_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.6875,0.0670776537941777,0.854166666666667,6,0.570833333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_10_102825_CH4_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.6875,0.0670776537941777,0.458333333333333,6,0.570833333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_10_102825_CH4_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.6875,0.0670776537941777,0.583333333333333,6,0.570833333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_24_094856_CH4_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.5,0.318073718546972,0.932291666666667,4.875,0.653611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_24_094856_CH4_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.5,0.318073718546972,0.802083333333333,4.875,0.653611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_24_094856_CH4_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.5,0.318073718546972,0.863541666666667,4.875,0.653611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_24_094856_CH4_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.5,0.318073718546972,0.736458333333333,4.875,0.653611111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_8_105005_CH1_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.5625,-0.000248707689905088,0.854166666666667,5.25,0.613194444444444
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_8_105005_CH1_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.5625,-0.000248707689905088,0.71875,5.25,0.613194444444444
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_8_105005_CH1_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.5625,-0.000248707689905088,0.90625,5.25,0.613194444444444
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_8_105030_CH2_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.6875,0.13834487999201,0.885416666666667,5.625,0.561111111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_8_105030_CH2_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.6875,0.13834487999201,0.822916666666667,5.625,0.561111111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_8_105030_CH2_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.6875,0.13834487999201,0.833333333333333,5.625,0.561111111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_3_8_105030_CH2_parent-Start_4","Learnability","PH2","Start_4","Start_4.lang",0.6875,0.13834487999201,0.760416666666667,5.625,0.561111111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_5_19_111631_CH2_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",1,0.365051049012865,0.939721200980392,11.125,0.766789807414807
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_5_19_111631_CH2_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",1,0.365051049012865,0.813658563658564,11.125,0.766789807414807
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_5_19_111631_CH2_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",1,0.365051049012865,0.601859501813546,11.125,0.766789807414807
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_5_19_111631_CH2_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",1,0.365051049012865,0.884508547008547,11.125,0.766789807414807
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_6_14_114615_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",0.875,0.271437210504934,1,5.4375,0.662222222222222
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_6_14_114615_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",0.875,0.271437210504934,0.747916666666667,5.4375,0.662222222222222
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_6_14_114615_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",0.875,0.271437210504934,0.566666666666667,5.4375,0.662222222222222
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_6_14_114615_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",0.875,0.271437210504934,0.775,5.4375,0.662222222222222
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_6_28_095126_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",0.9375,0.167491144063374,0.858522727272727,8.8125,0.813915343915344
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_6_28_095126_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",0.9375,0.167491144063374,0.914445970695971,8.8125,0.813915343915344
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_6_28_095126_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",0.9375,0.167491144063374,0.809821428571429,8.8125,0.813915343915344
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_6_28_095126_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",0.9375,0.167491144063374,0.673685515873016,8.8125,0.813915343915344
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_16_114047_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.208378247529833,0.836669753857254,11.1875,0.732940069190069
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_16_114047_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.208378247529833,0.788722398924605,11.1875,0.732940069190069
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_16_114047_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.208378247529833,0.806959013209013,11.1875,0.732940069190069
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_16_114047_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.208378247529833,0.379812895437895,11.1875,0.732940069190069
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_8_16_125333_CH1_parent-PH2_6_16_114047_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_16_114047_CH1_parent-Start_4.lang",1,0.140263678103774,NA,11.125,0.763666588041588
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_8_23_135833_CH1_parent-PH1_3_10_102825_CH4_parent-Start_4","Learnability","PH3","Start_4","PH1_3_10_102825_CH4_parent-Start_4.lang",0.6875,0.0991755970844839,NA,6,0.572222222222222
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_8_9_120335_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",1,0.392441450953008,0.954776785714286,23,0.648437593667865
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_8_9_120335_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",1,0.392441450953008,0.922144396551724,23,0.648437593667865
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_8_9_120335_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",1,0.392441450953008,0.96860614764733,23,0.648437593667865
+"../Backups/ILMLEX_Backups_Nov2016/results/PH1_8_9_120335_CH1_parent-Start_4","Learnability + Expressivity","PH2","Start_4","Start_4.lang",1,0.392441450953008,0.980185185185185,23,0.648437593667865
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_5_26_112353_CH1_parent-PH1_3_8_105030_CH2_parent-Start_4","Learnability","PH3","Start_4","PH1_3_8_105030_CH2_parent-Start_4.lang",0.6875,0.0606371430198826,NA,5.75,0.51875
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_5_19_113844_CH1_parent-PH1_3_8_105005_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_3_8_105005_CH1_parent-Start_4.lang",0.4375,0.0196331082079035,0.734375,5.375,0.608333333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_14_100004_CH1_parent-PH3_5_19_113844_CH1_parent-PH1_3_8_105005_CH1_parent-Start_4","Learnability","PH3","Start_4","PH3_5_19_113844_CH1_parent-PH1_3_8_105005_CH1_parent-Start_4.lang",0.4375,0.0576954128462039,NA,5.1875,0.599305555555556
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_2_113539_CH1_parent-PH1_3_10_102825_CH4_parent-Start_4","Learnability","PH3","Start_4","PH1_3_10_102825_CH4_parent-Start_4.lang",0.625,0.0993429122168286,NA,6,0.575
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_23_094112_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.470227154594331,0.709058017146252,10.3125,0.735725559163059
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_23_094112_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.470227154594331,0.730372925685426,10.3125,0.735725559163059
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_23_094112_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.470227154594331,0.674988063407181,10.3125,0.735725559163059
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_23_094112_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.470227154594331,0.692606872294372,10.3125,0.735725559163059
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_28_114809_CH1_parent-PH1_3_8_105030_CH2_parent-Start_4","Learnability","PH3","Start_4","PH1_3_8_105030_CH2_parent-Start_4.lang",0.5625,0.13585259284712,NA,5.5,0.583333333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_28_122845_CH1_parent-PH1_3_10_102825_CH4_parent-Start_4","Learnability","PH3","Start_4","PH1_3_10_102825_CH4_parent-Start_4.lang",0.75,-0.00126218822371573,NA,5.9375,0.505555555555556
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_7_113002_CH3_parent-PH1_3_24_094856_CH4_parent-Start_4","Learnability","PH3","Start_4","PH1_3_24_094856_CH4_parent-Start_4.lang",0.5625,0.309061138422707,NA,5,0.651944444444444
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_9_095038_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.340583377623086,0.181782106782107,9.125,0.726594215969216
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_9_095038_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.340583377623086,0.552556818181818,9.125,0.726594215969216
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_9_095038_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.340583377623086,0.4808170995671,9.125,0.726594215969216
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_6_9_095038_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.340583377623086,0.524102633477634,9.125,0.726594215969216
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_8_9_105752_CH1_parent-PH1_3_24_094856_CH4_parent-Start_4","Learnability","PH3","Start_4","PH1_3_24_094856_CH4_parent-Start_4.lang",0.4375,0.309935489598049,NA,4.6875,0.643333333333333
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_8_9_130358_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.10731447514792,0.179861111111111,7.3125,0.694236111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_8_9_130358_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.10731447514792,0.625868055555556,7.3125,0.694236111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_8_9_130358_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.10731447514792,0.640277777777778,7.3125,0.694236111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH2_8_9_130358_CH1_parent-Start_4","Expressivity","PH2","Start_4","Start_4.lang",1,0.10731447514792,0.27547123015873,7.3125,0.694236111111111
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_11_105735_CH1_parent-PH1_5_19_111631_CH2_parent-Start_4","Learnability","PH3","Start_4","PH1_5_19_111631_CH2_parent-Start_4.lang",1,0.33454351709985,NA,11.5,0.75812458783047
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_11_111725_CH2_parent-PH2_6_16_114047_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_16_114047_CH1_parent-Start_4.lang",0.9375,0.0868579307112611,NA,10.75,0.737125193706076
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_11_120042_CH1_parent-PH1_6_28_095126_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_6_28_095126_CH1_parent-Start_4.lang",0.9375,0.16034639957929,NA,9.75,0.767351791726792
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_11_140112_CH1_parent-PH2_6_23_094112_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_23_094112_CH1_parent-Start_4.lang",0.875,0.346558097855512,NA,10.4375,0.69558229352347
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_11_140215_CH2_parent-PH1_6_14_114615_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_6_14_114615_CH1_parent-Start_4.lang",0.875,0.271437210504934,NA,5.4375,0.662222222222222
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_11_150709_CH2_parent-PH2_6_9_095038_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_9_095038_CH1_parent-Start_4.lang",0.875,-0.0136472813542785,NA,6.4375,0.759077380952381
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_11_150806_CH1_parent-PH1_8_9_120335_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_8_9_120335_CH1_parent-Start_4.lang",1,0.319837816260777,NA,22.25,0.650882661162407
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_16_095835_CH1_parent-PH2_8_9_130358_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_8_9_130358_CH1_parent-Start_4.lang",0.875,-0.0485667889605907,NA,6.5,0.584275793650794
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_16_105943_CH1_parent-PH2_6_9_095038_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_9_095038_CH1_parent-Start_4.lang",0.8125,0.215652812456328,NA,10.125,0.470970117845118
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_16_125434_CH2_parent-PH2_6_23_094112_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_23_094112_CH1_parent-Start_4.lang",0.8125,0.273622418345493,NA,9.125,0.708911586099086
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_18_095906_CH1_parent-PH2_8_9_130358_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_8_9_130358_CH1_parent-Start_4.lang",0.6875,0.202654161200393,NA,6.4375,0.671782407407407
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_18_101955_CH1_parent-PH1_5_19_111631_CH2_parent-Start_4","Learnability","PH3","Start_4","PH1_5_19_111631_CH2_parent-Start_4.lang",0.875,0.360800691098218,NA,10.875,0.723131590631591
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_18_112916_CH1_parent-PH1_6_14_114615_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_6_14_114615_CH1_parent-Start_4.lang",0.625,0.319373493668595,NA,5.625,0.649722222222222
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_18_123040_CH1_parent-PH1_6_28_095126_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_6_28_095126_CH1_parent-Start_4.lang",0.875,0.217785544363542,NA,9,0.792075193325193
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_23_095901_CH1_parent-PH1_8_9_120335_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_8_9_120335_CH1_parent-Start_4.lang",1,0.358074774339273,NA,22.375,0.623219115142683
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_23_103135_CH1_parent-PH1_3_8_105005_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_3_8_105005_CH1_parent-Start_4.lang",0.375,0.150090742275239,NA,4.875,0.602777777777778
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_23_130125_CH1_parent-PH1_3_8_105030_CH2_parent-Start_4","Learnability","PH3","Start_4","PH1_3_8_105030_CH2_parent-Start_4.lang",0.5625,0.18861131352216,NA,5.25,0.575694444444444
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_26_115808_CH1_parent-PH1_3_8_105005_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_3_8_105005_CH1_parent-Start_4.lang",0.5,0.0615072181079111,NA,5.125,0.594444444444444
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_26_115915_CH2_parent-PH1_3_8_105030_CH2_parent-Start_4","Learnability","PH3","Start_4","PH1_3_8_105030_CH2_parent-Start_4.lang",0.5,0.289924797890676,NA,5.625,0.5375
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_26_130220_CH1_parent-PH1_3_10_102825_CH4_parent-Start_4","Learnability","PH3","Start_4","PH1_3_10_102825_CH4_parent-Start_4.lang",0.75,0.147555833583705,NA,6,0.584722222222222
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_26_135917_CH1_parent-PH1_3_24_094856_CH4_parent-Start_4","Learnability","PH3","Start_4","PH1_3_24_094856_CH4_parent-Start_4.lang",0.375,0.326057117537615,NA,4.6875,0.630555555555556
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_26_143312_CH1_parent-PH1_3_24_094856_CH4_parent-Start_4","Learnability","PH3","Start_4","PH1_3_24_094856_CH4_parent-Start_4.lang",0.5625,0.193267241494118,NA,4.75,0.617916666666667
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_26_155900_CH1_parent-PH1_5_19_111631_CH2_parent-Start_4","Learnability","PH3","Start_4","PH1_5_19_111631_CH2_parent-Start_4.lang",0.8125,0.153465394104002,NA,11.8125,0.760965437068378
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_26_161905_CH1_parent-PH1_6_14_114615_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_6_14_114615_CH1_parent-Start_4.lang",0.8125,0.0602920009938814,NA,5.25,0.591944444444444
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_29_095642_CH1_parent-PH1_6_28_095126_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_6_28_095126_CH1_parent-Start_4.lang",0.875,0.358795389069537,NA,9.4375,0.782755138380138
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_29_102914_CH1_parent-PH1_8_9_120335_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_8_9_120335_CH1_parent-Start_4.lang",1,0.398094697657164,NA,23.125,0.646213730562127
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_29_110114_CH1_parent-PH1_5_19_111631_CH2_parent-Start_4","Learnability","PH3","Start_4","PH1_5_19_111631_CH2_parent-Start_4.lang",1,0.379620699648492,NA,11.1875,0.753384983072483
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_29_110220_CH2_parent-PH2_6_9_095038_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_9_095038_CH1_parent-Start_4.lang",0.8125,0.105849134927692,NA,6.6875,0.754044312169312
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_29_113136_CH1_parent-PH1_6_14_114615_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_6_14_114615_CH1_parent-Start_4.lang",0.625,0.258334600996573,NA,5.375,0.639444444444444
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_29_115833_CH1_parent-PH1_6_28_095126_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_6_28_095126_CH1_parent-Start_4.lang",0.8125,0.20052260261015,NA,8.875,0.816369047619048
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_29_132920_CH1_parent-PH1_8_9_120335_CH1_parent-Start_4","Learnability","PH3","Start_4","PH1_8_9_120335_CH1_parent-Start_4.lang",1,0.372805828580404,NA,22.625,0.648271700660528
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_29_142805_CH1_parent-PH2_6_16_114047_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_16_114047_CH1_parent-Start_4.lang",0.8125,0.158697285997541,NA,11.3125,0.706533189033189
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_31_093538_CH1_parent-PH2_6_23_094112_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_23_094112_CH1_parent-Start_4.lang",1,0.346861209420195,NA,8.9375,0.818834024091377
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_31_095539_CH1_parent-PH2_6_9_095038_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_9_095038_CH1_parent-Start_4.lang",1,0.0539532946738837,NA,8.625,0.740610269360269
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_31_123521_CH1_parent-PH2_8_9_130358_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_8_9_130358_CH1_parent-Start_4.lang",0.9375,-0.0273338504856408,NA,7.125,0.728125
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_31_125954_CH1_parent-PH2_6_23_094112_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_23_094112_CH1_parent-Start_4.lang",1,0.347710487425697,NA,9.875,0.713106696544197
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_31_133157_CH1_parent-PH2_6_16_114047_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_6_16_114047_CH1_parent-Start_4.lang",0.875,0.104796039594255,NA,6.3125,0.796498015873016
+"../Backups/ILMLEX_Backups_Nov2016/results/PH3_8_31_150325_CH1_parent-PH2_8_9_130358_CH1_parent-Start_4","Learnability","PH3","Start_4","PH2_8_9_130358_CH1_parent-Start_4.lang",1,-0.0270520912490981,NA,6.625,0.745446428571429

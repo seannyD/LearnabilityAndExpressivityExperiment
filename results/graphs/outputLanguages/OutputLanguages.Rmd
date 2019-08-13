@@ -1,0 +1,55 @@
+---
+title: "Output Languages"
+output: pdf_document
+---
+
+## L-only
+
+
+![L-only 1](Learnability_1.png)
+
+
+![L-only 2](Learnability_2.png)
+
+
+![L-only 3](Learnability_3.png)
+
+
+![](Learnability_4.png)
+
+\clearpage
+\newpage
+
+
+## U-only
+
+![U-only 1](Expressivity_1.png)
+
+
+![U-only 2](Expressivity_2.png)
+
+
+![U-only 3](Expressivity_3.png)
+
+
+![U-only 4](Expressivity_4.png)
+
+\clearpage
+\newpage
+
+## L+E
+
+
+
+![](Learnability + Expressivity_1.png)
+
+
+
+![](Learnability + Expressivity_2.png)
+
+
+
+![](Learnability + Expressivity_3.png)
+
+
+![](Learnability + Expressivity_4.png)
